@@ -1,4 +1,4 @@
-## 0222 App.jsx 코드
+## 0221 App.jsx 코드
 ---
 [function Q & A 예제](https://github.com/yamoo9/likelion-FEQA/issues/98)
 ```
